@@ -58,6 +58,7 @@ The automated pipeline yields highly precise results upon completion:
 
     accuracy                           0.93      5394
 ```
+<img width="989" height="690" alt="image" src="https://github.com/user-attachments/assets/1714639a-8250-4031-b37b-9cb51088ab5e" />
 
 ---
 ## 🧑‍💻 How to Reproduce and Run
