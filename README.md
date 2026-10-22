@@ -5,7 +5,7 @@ An end-to-end, resource-optimized data mining pipeline that extracts topological
 ## 🔗 Live Execution Link
 You can review, audit, and execute this entire data mining pipeline with a single click:
 👉 **[CLICK HERE TO OPEN THE LIVE GOOGLE COLAB NOTEBOOK](https://colab.research.google.com/drive/1Znt0D0cUazmwOgui30k7_tZ_rKp1TEes?usp=sharing)** 
-*(Note: Please replace the placeholder above with your actual Colab Share link containing viewer permissions.)*
+
 
 ---
 
